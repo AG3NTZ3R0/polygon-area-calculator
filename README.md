@@ -1,3 +1,8 @@
+# Polygon Area Calculator
+
+This is an original work inspired by one of the five required projects within the freeCodeCamp() Scientific Computing with Python certification. I am responsible for writing all of the code within the <i>shape_calculator.py</i> file. The test code was supplied by freeCodeCamp() in order to analyze the required work. Below, you will see the prompt for this programming assignment. 
+
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
